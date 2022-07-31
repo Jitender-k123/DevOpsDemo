@@ -1,13 +1,13 @@
 //
-//  DevOpsDemoUITestsLaunchTests.swift
-//  DevOpsDemoUITests
+//  DevOpsDemoJKUITestsLaunchTests.swift
+//  DevOpsDemoJKUITests
 //
 //  Created by Jitender Kumar on 31/7/22.
 //
 
 import XCTest
 
-final class DevOpsDemoUITestsLaunchTests: XCTestCase {
+final class DevOpsDemoJKUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

@@ -1,6 +1,6 @@
 //
-//  DevOpsDemoTests.swift
-//  DevOpsDemoTests
+//  DevOpsDemoJKTests.swift
+//  DevOpsDemoJKTests
 //
 //  Created by Jitender Kumar on 31/7/22.
 //
@@ -8,7 +8,7 @@
 import XCTest
 @testable import DevOpsDemoJK
 
-final class DevOpsDemoTests: XCTestCase {
+final class DevOpsDemoJKTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

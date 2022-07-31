@@ -1,13 +1,13 @@
 //
-//  DevOpsDemoUITests.swift
-//  DevOpsDemoUITests
+//  DevOpsDemoJKUITests.swift
+//  DevOpsDemoJKUITests
 //
 //  Created by Jitender Kumar on 31/7/22.
 //
 
 import XCTest
 
-final class DevOpsDemoUITests: XCTestCase {
+final class DevOpsDemoJKUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
