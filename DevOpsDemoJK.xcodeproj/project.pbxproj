@@ -75,9 +75,9 @@
 		B035117D28962EDA00BF6C95 = {
 			isa = PBXGroup;
 			children = (
-				B035118828962EDA00BF6C95 /* DevOpsDemo */,
-				B035119928962EDD00BF6C95 /* DevOpsDemoTests */,
-				B03511A328962EDD00BF6C95 /* DevOpsDemoUITests */,
+				B035118828962EDA00BF6C95 /* DevOpsDemoJK */,
+				B035119928962EDD00BF6C95 /* DevOpsDemoJKTests */,
+				B03511A328962EDD00BF6C95 /* DevOpsDemoJKUITests */,
 				B035118728962EDA00BF6C95 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -92,7 +92,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B035118828962EDA00BF6C95 /* DevOpsDemo */ = {
+		B035118828962EDA00BF6C95 /* DevOpsDemoJK */ = {
 			isa = PBXGroup;
 			children = (
 				B03511B32896314900BF6C95 /* Info.plist */,
@@ -101,7 +101,7 @@
 				B035118D28962EDD00BF6C95 /* Assets.xcassets */,
 				B035118F28962EDD00BF6C95 /* Preview Content */,
 			);
-			path = DevOpsDemo;
+			path = DevOpsDemoJK;
 			sourceTree = "<group>";
 		};
 		B035118F28962EDD00BF6C95 /* Preview Content */ = {
@@ -112,21 +112,21 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		B035119928962EDD00BF6C95 /* DevOpsDemoTests */ = {
+		B035119928962EDD00BF6C95 /* DevOpsDemoJKTests */ = {
 			isa = PBXGroup;
 			children = (
 				B035119A28962EDD00BF6C95 /* DevOpsDemoTests.swift */,
 			);
-			path = DevOpsDemoTests;
+			path = DevOpsDemoJKTests;
 			sourceTree = "<group>";
 		};
-		B03511A328962EDD00BF6C95 /* DevOpsDemoUITests */ = {
+		B03511A328962EDD00BF6C95 /* DevOpsDemoJKUITests */ = {
 			isa = PBXGroup;
 			children = (
 				B03511A428962EDD00BF6C95 /* DevOpsDemoUITests.swift */,
 				B03511A628962EDD00BF6C95 /* DevOpsDemoUITestsLaunchTests.swift */,
 			);
-			path = DevOpsDemoUITests;
+			path = DevOpsDemoJKUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
